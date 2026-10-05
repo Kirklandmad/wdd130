@@ -1,0 +1,47 @@
+body {
+    background-color: purple;
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    min-height: 100vh;
+}
+
+header, footer {
+    background-color: light pink;
+    padding: 20px;
+    /* border: 20px solid black; */
+    /* margin: 20px; */
+    /* border-radius: 10px; */
+}
+
+.current {
+    color: #ccc;
+}
+
+nav a {
+    color:teal;
+    font-size: 1.2em;
+    padding: 10px;
+}
+
+nav a:hover {
+    color:lightblue;
+}
+
+img {
+    width: 600px;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+#second {
+    font-size: 3em;
+}
+
+.emphasis {
+    color: yellow;
+}
