@@ -1,0 +1,30 @@
+
+body {
+    background-color: purple;
+    color: white;
+    font-family: nosifer, barriecito;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    background-color: black;
+    color: lime green(7, 246, 7);
+    padding: 30px;
+    font-size: 40px;
+}
+
+h2 {
+    color: orange;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    list-style:none;
+    padding: 0;
+    font-size: 20px;
+    line-height: 2;
+}
