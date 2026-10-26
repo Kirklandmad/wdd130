@@ -1,20 +1,31 @@
 
 body {
-    background-color: rgb(65, 49, 4);
     font-family: Arial, sans-serif;
+    background-color: lightgray;
     text-align: center;
 }
 
-.card {
-    background-color: rgb(255, 30, 0);
-    width: 300px;
-    margin: 100px auto;
-    padding: 25px;
-    border-radius: 15px;
-    box-shadow: 0 4px 10px rgb(7, 7, 7);
+h1 {
+    color: darkblue;
 }
 
-.card img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%
+table {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 12px;
+}
+
+th {
+    background-color: darkblue;
+    color: white;
+}
+
+tr:hover {
+    background-color: lightblue;
+}
