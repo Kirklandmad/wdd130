@@ -7,8 +7,6 @@ body {
     color: #333;
 }
 
-/* Main Heading */
-
 h1 {
     text-align: center;
     color: #536779;
@@ -26,6 +24,7 @@ p {
 }
 
 
+
 form {
     background-color: white;
     width: 400px;
@@ -35,14 +34,14 @@ form {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
-/* Labels */
+
 
 label {
     font-weight: bold;
     color: #536779;
 }
 
-/* Input Boxes */
+
 
 input, select, textarea {
     width: 100%;
@@ -53,6 +52,8 @@ input, select, textarea {
     box-sizing: border-box;
     font-size: 15px;
 }
+
+
 
 button {
     background-color: #718da5;
@@ -68,6 +69,7 @@ button {
 button:hover {
     background-color: #536779;
 }
+
 
 
 a {
